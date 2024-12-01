@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "133543628973",
+    "project_id": "posteq-f550e",
+    "storage_bucket": "posteq-f550e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133543628973:android:cd0a69031c4f1a2257f624",
+        "android_client_info": {
+          "package_name": "com.fourward.posteq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5VxYgIETyJbUMCAs55Xi6dAbzgocqmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
